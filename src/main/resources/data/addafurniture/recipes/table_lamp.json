@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","pattern":[" T ","TLT"," S "],"key":{"T":{"item":"minecraft:torch"},"L":{"item":"minecraft:glass"},"S":{"item":"minecraft:stick"}},"result":{"item":"addafurniture:table_lamp","count":1}}

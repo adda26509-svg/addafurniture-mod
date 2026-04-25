@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","pattern":["GGG","IRI","I I"],"key":{"G":{"item":"minecraft:glass_pane"},"I":{"item":"minecraft:iron_ingot"},"R":{"item":"minecraft:redstone"}},"result":{"item":"addafurniture:smart_tv","count":1}}
