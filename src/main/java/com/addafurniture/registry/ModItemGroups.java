@@ -110,9 +110,6 @@ public class ModItemGroups {
                             entries.add(ModItems.MOBILE_PHONE);
                             entries.add(ModItems.REMOTE_CONTROL);
                             // Vehicles
-                            entries.add(ModItems.CAR_SPAWN_EGG);
-                            entries.add(ModItems.BIKE_SPAWN_EGG);
-                            entries.add(ModItems.SCOOTER_SPAWN_EGG);
                         })
                         .build()
         );
