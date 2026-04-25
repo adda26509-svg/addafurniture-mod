@@ -34,7 +34,7 @@ public class LionEntity extends AnimalEntity {
         targetSelector.add(1, new ActiveTargetGoal<>(this, PlayerEntity.class, false));
         targetSelector.add(2, new RevengeGoal(this));
     }
-    @Override public boolean isBreedingItem(ItemStack s) { return s.isOf(Items.RAW_BEEF); }
+    @Override public boolean isBreedingItem(ItemStack s) { return s.isOf(Items.BEEF); }
     @Nullable @Override public PassiveEntity createChild(ServerWorld w, PassiveEntity e) { return null; }
     @Override protected SoundEvent getAmbientSound() { return SoundEvents.ENTITY_CAT_AMBIENT; }
     @Override protected SoundEvent getHurtSound(DamageSource s) { return SoundEvents.ENTITY_IRON_GOLEM_HURT; }

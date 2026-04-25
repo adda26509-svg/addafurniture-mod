@@ -78,15 +78,12 @@ public class ModItems {
 
     // ==================== VEHICLES (Spawn Eggs / Placeable) ====================
 
-    public static final Item CAR_SPAWN_EGG = register("car_spawn_egg",
             new SpawnEggItem(ModEntities.CAR_ENTITY, 0xFF0000, 0x333333,
                     new FabricItemSettings()));
 
-    public static final Item BIKE_SPAWN_EGG = register("bike_spawn_egg",
             new SpawnEggItem(ModEntities.BIKE_ENTITY, 0xF4A035, 0x111111,
                     new FabricItemSettings()));
 
-    public static final Item SCOOTER_SPAWN_EGG = register("scooter_spawn_egg",
             new SpawnEggItem(ModEntities.SCOOTER_ENTITY, 0x3399FF, 0xFFFFFF,
                     new FabricItemSettings()));
 
